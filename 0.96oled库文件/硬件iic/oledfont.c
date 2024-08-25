@@ -1,9 +1,3 @@
-/*
- * oledfont.c
- *
- *  Created on: Jul 24, 2022
- *      Author: Unicorn_Li
- */
 #include "oledfont.h"
 
 //8*6 ASCII字符集点阵
